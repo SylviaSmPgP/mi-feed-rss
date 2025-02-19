@@ -7,15 +7,42 @@
     <language>es</language>
     <atom:link href="https://sylviasmpgp.github.io/mi-feed-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Wed, 19 Feb 2025 18:07:00 +0000</pubDate>
+
+    <!-- Noticia 1 -->
     <item>
       <title>Samsung lanza su nuevo Galaxy XYZ</title>
       <link>https://www.misitio.com/samsung-galaxy-xyz</link>
       <description>Samsung ha presentado el Galaxy XYZ con una pantalla AMOLED de 120Hz, cámara de 108MP y batería de 5000mAh.</description>
-      <pubDate>Thu, 20 Feb 2025 10:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Feb 2025 10:00:00 +0000</pubDate>
+      <author>noticias@misitio.com (Equipo de Tecnología)</author>
+      <category>Dispositivos Móviles</category>
       <guid>https://www.misitio.com/samsung-galaxy-xyz</guid>
+    </item>
+
+    <!-- Noticia 2 -->
+    <item>
+      <title>Apple presenta el nuevo iPad Pro</title>
+      <link>https://www.misitio.com/apple-ipad-pro</link>
+      <description>Apple ha lanzado el nuevo iPad Pro con un procesador M1, pantalla Liquid Retina XDR y soporte para 5G.</description>
+      <pubDate>Fri, 20 Feb 2025 09:00:00 +0000</pubDate>
+      <author>noticias@misitio.com (Equipo de Tecnología)</author>
+      <category>Tabletas</category>
+      <guid>https://www.misitio.com/apple-ipad-pro</guid>
+    </item>
+
+    <!-- Noticia 3 -->
+    <item>
+      <title>Google anuncia mejoras en su Asistente</title>
+      <link>https://www.misitio.com/google-asistente-mejoras</link>
+      <description>Google ha anunciado nuevas características para su Asistente, incluyendo mejores capacidades de comprensión de lenguaje natural y nuevas integraciones con dispositivos inteligentes.</description>
+      <pubDate>Sat, 21 Feb 2025 11:00:00 +0000</pubDate>
+      <author>noticias@misitio.com (Equipo de Tecnología)</author>
+      <category>Inteligencia Artificial</category>
+      <guid>https://www.misitio.com/google-asistente-mejoras</guid>
     </item>
   </channel>
 </rss>
+
 
 
 
