@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias sobre Tecnología</title>
+    <link>https://www.misitio.com</link>
+    <description>Últimas noticias sobre tecnología y dispositivos móviles.</description>
+    <language>es</language>
+    <pubDate>Tue, 20 Feb 2025 10:00:00 +0000</pubDate>
+
+    <item>
+      <title>Samsung lanza su nuevo Galaxy XYZ</title>
+      <link>https://www.misitio.com/samsung-galaxy-xyz</link>
+      <description>Samsung ha presentado el Galaxy XYZ con una pantalla AMOLED de 120Hz, cámara de 108MP y batería de 5000mAh.</description>
+      <pubDate>Tue, 20 Feb 2025 10:00:00 +0000</pubDate>
+      <guid>https://www.misitio.com/samsung-galaxy-xyz</guid>
+    </item>
+  </channel>
+</rss>
